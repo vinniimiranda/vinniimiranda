@@ -24,8 +24,11 @@ I love to learn and discuss about new technologies
 <img align="left" alt="typescript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" />
 <img align="left" alt="react" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="express" width="42px" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" />
-<img align="left" alt="nodejs" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="nodejs" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="mysql" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original.svg" />
 <img align="left" alt="mongodb" width="42px" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" />
+<img align="left" alt="docker" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original.svg" />
+
 
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg" />
 
