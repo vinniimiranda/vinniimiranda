@@ -6,7 +6,7 @@
 I love to learn and discuss about new technologies
 - 🤔 Exploring new technologies.
 - 😎 I like to automate tasks to make life easier.
-- 🔭 I’m currently working on <a href="https://github.com/indahousi/">Housi</a> as Software Developer.
+- 🔭 I’m currently working at <a href="https://github.com/indahousi/">Housi</a> as Software Developer.
 - 👯 I’m looking to collaborate on new projects
 - 📖 Studying and testing softwares architetures
 - <a href="https://vinniimiranda.com.br" >More info about me</a>
