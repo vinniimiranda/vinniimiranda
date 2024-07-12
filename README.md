@@ -6,7 +6,7 @@
 I love to learn and discuss about new technologies
 - 🤔 Exploring new technologies.
 - 😎 I like to automate tasks to make life easier.
-- 🔭 I’m currently working at <a href="https://github.com/indahousi/](https://bankly.com.br/en">Bankly</a> as Senior Software Engineer.
+- 🔭 I’m currently working at <a href="[https://github.com/](https://bankly.com.br/en](https://github.com/curebase)">Curebase</a> as Senior Software Engineer.
 - 👯 I’m looking to collaborate on new projects
 - 📖 Studying and testing softwares architetures
 - <a href="https://vinniimiranda.com.br" >More info about me</a>
