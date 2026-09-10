@@ -6,7 +6,7 @@
 I love to learn and discuss about new technologies
 - 🤔 Exploring new technologies.
 - 😎 I like to automate tasks to make life easier.
-- 🔭 I’m currently working at <a href="https://github.com/tiedanube">Nuveshop</a> as Staff Software Engineer.
+- 🔭 I’m currently working at <a href="https://github.com/tiedanube">Nuvemshop</a> as Staff Software Engineer.
 - 👯 I’m looking to collaborate on new projects
 - 📖 Applying modern software architectures 
 - <a href="https://vinniimiranda.com.br" >More info about me</a>
